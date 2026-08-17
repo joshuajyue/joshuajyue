@@ -1,6 +1,6 @@
 # Joshua Yue
 
-CS + Math @ UT Austin ('27). Software engineer with experience in systems, AI infrastructure, and developer tooling.
+CS + Math @ UT Austin ('27). CS student with experience in systems, AI infrastructure, and developer tooling.
 
 ## Selected Projects
 
