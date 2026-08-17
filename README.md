@@ -6,7 +6,7 @@ CS + Math @ UT Austin ('27). Software engineer with experience in systems, AI in
 
 - [harmonizer](https://github.com/joshuajyue/harmonizer) - MIDI harmonization using music-theory and neural approaches.
 - [wave-gen](https://github.com/joshuajyue/wave-gen) - Interactive 3D Lissajous music visualizer using Three.js and Web Audio.
-- [cloudsim_eec](https://github.com/joshuajyue/cloudsim_eec) - Greedy cloud task scheduler and workload-migration simulation.
+- [cloudsim_eec](https://github.com/joshuajyue/cloudsim_eec) - Cloud task scheduler and workload-migration simulation w/ 4 different implementations (check branches).
 
 ## Work I did for microsoft
 
