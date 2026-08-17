@@ -12,8 +12,6 @@ CS + Math @ UT Austin ('27). Software engineer with experience in systems, AI in
 
 ## Selected Projects
 
-- [model-judging](https://github.com/joshuajyue/model-judging) - LLM evaluation and model-routing benchmark harness.
-- [routing-samples](https://github.com/joshuajyue/routing-samples) - Routing-policy samples for experimental `Microsoft.Extensions.AI` APIs.
 - [harmonizer](https://github.com/joshuajyue/harmonizer) - MIDI harmonization using music-theory and neural approaches.
 - [wave-gen](https://github.com/joshuajyue/wave-gen) - Interactive 3D Lissajous music visualizer using Three.js and Web Audio.
 - [cloudsim_eec](https://github.com/joshuajyue/cloudsim_eec) - Greedy cloud task scheduler and workload-migration simulation.
